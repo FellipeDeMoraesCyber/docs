@@ -230,11 +230,8 @@ download a new file each time you want to upgrade Docker Engine.
 4. Download the following `deb` files for the Docker Engine, CLI, containerd,
    and Docker Compose packages:
 
-   - `containerd.io_<version>_<arch>.deb`
    - `docker-ce_<version>_<arch>.deb`
-   - `docker-ce-cli_<version>_<arch>.deb`
-   - `docker-buildx-plugin_<version>_<arch>.deb`
-   - `docker-compose-plugin_<version>_<arch>.deb`
+
 
 5. Install the `.deb` packages. Update the paths in the following example to
    where you downloaded the Docker packages.
